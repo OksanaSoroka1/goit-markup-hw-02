@@ -139,6 +139,7 @@ a {
 /*Оформлення секції "Особливості"*/
 
 .feature-list .title {
+  font-size: inherit;
   line-height: 1.14;
 }
 
