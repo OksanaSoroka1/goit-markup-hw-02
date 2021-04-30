@@ -24,6 +24,11 @@ a {
   text-decoration: none;
 }
 
+/*Скидає декорацію списків*/
+ul {
+  list-style: none;
+}
+
 /*Оформлення логотипу */
 .logo {
   font-family: 'Raleway', sans-serif;
@@ -65,6 +70,10 @@ a {
 
 .page-footer {
   background-color: var(--dark-background-color);
+}
+
+address {
+  font-style: normal;
 }
 
 .page-footer .text,
